@@ -2,33 +2,33 @@
 <rss version="2.0">
   <channel>
     <title>Noticias sobre Teléfonos Móviles</title>
-    <link>http://localhost/moviles</link>
+    <link>https://miguiasm.github.io/moviles/</link>
     <description>Últimas noticias sobre smartphones y tecnología móvil.</description>
     <language>es-es</language>
     <lastBuildDate>Mon, 27 May 2025 12:00:00 +0000</lastBuildDate>
 
     <item>
       <title>Xiaomi 15: el flagship económico del año</title>
-      <link>http://localhost/moviles/noticia1.html</link>
+      <link>https://miguiasm.github.io/moviles/noticia1.html</link>
       <description>El nuevo Xiaomi 15 ofrece un rendimiento de gama alta a un precio competitivo.</description>
       <pubDate>Mon, 27 May 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost/moviles/noticia1.html</guid>
+      <guid>https://miguiasm.github.io/moviles/noticia1.html</guid>
     </item>
 
     <item>
       <title>Apple anuncia iOS 19 con funciones de IA</title>
-      <link>http://localhost/moviles/noticia2.html</link>
+      <link>https://miguiasm.github.io/moviles/noticia2.html</link>
       <description>iOS 19 incluye mejoras impulsadas por inteligencia artificial, nuevo diseño y mejor rendimiento.</description>
       <pubDate>Sun, 26 May 2025 14:30:00 +0000</pubDate>
-      <guid>http://localhost/moviles/noticia2.html</guid>
+      <guid>https://miguiasm.github.io/moviles/noticia2.html</guid>
     </item>
 
     <item>
       <title>Samsung Galaxy S25 Ultra: primer vistazo</title>
-      <link>http://localhost/moviles/noticia3.html</link>
+      <link>https://miguiasm.github.io/moviles/noticia3.html</link>
       <description>Se filtran imágenes del Galaxy S25 Ultra con cámara de 200MP y pantalla sin bordes.</description>
       <pubDate>Sat, 25 May 2025 11:15:00 +0000</pubDate>
-      <guid>http://localhost/moviles/noticia3.html</guid>
+      <guid>https://miguiasm.github.io/moviles/noticia3.html</guid>
     </item>
   </channel>
 </rss>
